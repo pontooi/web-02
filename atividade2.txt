@@ -1,0 +1,26 @@
+====================================================
+RELATÓRIO OFICIAL: DESAFIO TEMA 02 (20 QUESTÕES)
+Acertos: 20 de 20 (100%) • Pontuação: 5800 pts
+Data: 25/11/2026, 14:06:33
+----------------------------------------------------
+Q01: [ACERTO] - 1. Múltipla Escolha
+Q02: [ACERTO] - 2. Verdadeiro ou Falso
+Q03: [ACERTO] - 3. Múltiplas Respostas
+Q04: [ACERTO] - 4. Resposta Digitada
+Q05: [ACERTO] - 5. Resposta Numérica
+Q06: [ACERTO] - 6. Ordenação
+Q07: [ACERTO] - 7. Associação
+Q08: [ACERTO] - 8. Classificação
+Q09: [ACERTO] - 9. Completar Lacunas
+Q10: [ACERTO] - 10. Hotspot
+Q11: [ACERTO] - 11. Caça ao Erro
+Q12: [ACERTO] - 12. Múltipla Escolha
+Q13: [ACERTO] - 13. Múltipla Escolha
+Q14: [ACERTO] - 14. Resposta Numérica
+Q15: [ACERTO] - 15. Verdadeiro ou Falso
+Q16: [ACERTO] - 16. Múltipla Escolha
+Q17: [ACERTO] - 17. Associação
+Q18: [ACERTO] - 18. Classificação
+Q19: [ACERTO] - 19. Caça ao Erro
+Q20: [ACERTO] - 20. Múltipla Escolha
+====================================================
