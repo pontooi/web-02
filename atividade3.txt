@@ -17,7 +17,7 @@ Descrição: Domine Python, java, html, javascrip, css e a sintaxe limpa de auto
     → - Lucas (17 anos, iniciante/estudante): Usa PC simples ou celular, trava na   instalação de programas e precisa ver o código funcionando na hora.
 
 [✔] 🎯 Objetivo SMART
-    → - Meta principal: Levar novos alunos a completarem pelo menos 3 lições na   primeira semana e atingirem 100 usuários ativos em 60 dias. - Objetivo no site: Fazer qualquer pessoa rodar seu primeiro código em menos   de 1 minuto, sem instalar programas.
+    → - Meta principal: Levar novos alunos a completarem pelo menos 3 lições na   primeira semana e atingirem 5 a 10 usuários ativos em 60 dias. - Objetivo no site: Fazer qualquer pessoa rodar seu primeiro código em menos   de 1 minuto, sem instalar programas.
 
 [✔] 🗺️ Jornada do Consumidor
     → 1. Descoberta: Encontra o link pelo GitHub, indicação da turma ou busca. 2. Primeiro contato: Abre a tela Início e escolhe uma das 5 trilhas. 3. Ação rápida: Entra na Academia ou Playground e aperta "Executar". 4. Evolução: Ganha XP, desbloqueia conquistas e vê sites ao vivo no HTML/CSS. 5. Hábito: Volta para completar as 100 atividades e indica para colegas.
