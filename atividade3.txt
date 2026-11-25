@@ -1,0 +1,63 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 15:58:39
+Missões concluídas: 12 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: DualDev
+Tipo: Outro
+Descrição: Domine Python, java, html, javascrip, css e a sintaxe limpa de automação, scripts e algoritmos.
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[✔] 🎭 Persona
+    → - Lucas (17 anos, iniciante/estudante): Usa PC simples ou celular, trava na   instalação de programas e precisa ver o código funcionando na hora.
+
+[✔] 🎯 Objetivo SMART
+    → - Meta principal: Levar novos alunos a completarem pelo menos 3 lições na   primeira semana e atingirem 100 usuários ativos em 60 dias. - Objetivo no site: Fazer qualquer pessoa rodar seu primeiro código em menos   de 1 minuto, sem instalar programas.
+
+[✔] 🗺️ Jornada do Consumidor
+    → 1. Descoberta: Encontra o link pelo GitHub, indicação da turma ou busca. 2. Primeiro contato: Abre a tela Início e escolhe uma das 5 trilhas. 3. Ação rápida: Entra na Academia ou Playground e aperta "Executar". 4. Evolução: Ganha XP, desbloqueia conquistas e vê sites ao vivo no HTML/CSS. 5. Hábito: Volta para completar as 100 atividades e indica para colegas.
+
+[✔] 💡 Tópicos de Conteúdo
+    → - Java: Lógica estruturada, classes, loops e arrays. - Python: Sintaxe simples, listas, funções e módulos básicos. - JavaScript: Lógica moderna para web e manipulação de dados. - HTML5 & CSS3: Criação de páginas reais e visualização visual ao vivo.
+
+[✔] ✍️ Conteúdo (publicação)
+    → - Estrutura padrão em toda aula: explicação objetiva + código de exemplo +   missão prática + dica rápida + botão de ação (Verificar / Executar). - Linguagem simples em português, leitura rápida (escaneável) e foco total em   praticar digitando sem textos longos ou termos confusos. - Exemplo no site: em HTML/CSS, o aluno lê a teoria curta na esquerda, edita   na direita e vê a página ganhando forma ao vivo na mesma tela.
+
+[✔] 📢 Distribuição
+    → - GitHub Pages (link direto acessível em qualquer PC ou celular). - Vídeos curtos (Reels/TikTok/Shorts) mostrando código rodando em 1 clique. - Compartilhamento direto em grupos de estudo, salas de aula e WhatsApp.
+
+[✔] 🎯 Personalização
+    → - Quer criar sites e visual? -> Começa por HTML5 e CSS3 (Visualização Web). - Quer aprender lógica de programação? -> Começa por Python ou Java. - Quer treinar livremente? -> Vai direto para o Playground Livr
+
+[✔] 🔍 SEO
+    → - Título e descrição claros no index.html e README.md usando termos que os   alunos pesquisam ("aprender programação online grátis", "playground python   html css no navegador").
+
+[✔] ❤️ Engajamento
+    → - Gamificação simples: cada exercício aprovado dá XP, sobe de nível e libera   missões e insígnias na aba Conquistas. - Botões claros de próxima ação ("Verificar", "Visualização Web", "Próxima").
+
+[✔] 🔄 Iteração
+    → - Interação no uso: Editor com auto-tab, snippets no Tab, terminal em tempo   real e prévia visual responsiva (Desktop/Mobile) para HTML e CSS. - Melhoria contínua: Observar onde os alunos mais erram nos exercícios,   ajustar os enunciados confusos e atualizar as lições com base no feedback.
+
+[✔] 🚀 Tendências
+    → - Alta prioridade: Aulas rápidas (microlearning), zero instalação/privacidade   (tudo roda no navegador), uso leve em qualquer dispositivo e compartilhamento   de códigos do Playground entre colegas. - Sem excessos: Foco apenas no que ajuda o aluno a aprender e testar código   mais rápido.
+
+[✔] 🕵️ Concorrência
+    → - O que os concorrentes fazem (W3Schools, Codecademy, SoloLearn, Replit):   muitos estão em inglês, cobram assinatura para liberar exercícios/testes,   exigem cadastro obrigatório ou dependem de servidores pesados/lentos. - Onde o DualDev ganha (lacuna explorada):   1. 100% em português, gratuito e sem login obrigatório para começar.   2. Execução local instantânea no navegador (Java, Python, JS, HTML e CSS).   3. Junta 100 exercícios com correção automática + Playground Livre + prévia      web ao vivo no mesmo lugar, pensado para iniciantes e salas de aula. 
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: DualDev
+URL amigável: https://seusite.com.br/https://pontooi.github.io/DualDev/
+Meta description: Aprendizagem de programação intuitiva  
+Corpo do conteúdo:
+Você deseja aprender do 0 ao avançado diferentes linguagens de programação? o DualDev ajudar na sua trilha de aprendizagem 
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
